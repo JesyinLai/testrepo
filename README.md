@@ -2,4 +2,4 @@
 
 ## Editing the file
 
-Its a markdown file in thie repository.
+Hands-on lab in IBM Data Science Courses in Coursera
